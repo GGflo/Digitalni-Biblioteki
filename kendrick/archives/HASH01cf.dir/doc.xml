@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\S2VuZHJpY2sgTGFtYXIgLSBldXBob3JpYQ==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">15349688</Metadata>
+    <Metadata name="Source">Kendrick Lamar - euphoria.mp3</Metadata>
+    <Metadata name="SourceFile">S2VuZHJpY2sgTGFtYXIgLSBldXBob3JpYQ==.mp3</Metadata>
+    <Metadata name="mp3">Kendrick Lamar - euphoria</Metadata>
+    <Metadata name="srcurl">S2VuZHJpY2sgTGFtYXIgLSBldXBob3JpYQ==.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">S2VuZHJpY2sgTGFtYXIgLSBldXBob3JpYQ==.mp3</Metadata>
+    <Metadata name="srclinkFile">S2VuZHJpY2sgTGFtYXIgLSBldXBob3JpYQ==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Creator">Kendrick Lamar</Metadata>
+    <Metadata name="dc.Description">Diss 1</Metadata>
+    <Metadata name="dc.Title">euphoria</Metadata>
+    <Metadata name="Title">Kendrick Lamar - euphoria</Metadata>
+    <Metadata name="Identifier">HASH01cfaae3b5f8946caa80f72d</Metadata>
+    <Metadata name="lastmodified">1715451184</Metadata>
+    <Metadata name="lastmodifieddate">20240511</Metadata>
+    <Metadata name="oailastmodified">1715452216</Metadata>
+    <Metadata name="oailastmodifieddate">20240511</Metadata>
+    <Metadata name="assocfilepath">HASH01cf.dir</Metadata>
+    <Metadata name="gsdlassocfile">S2VuZHJpY2sgTGFtYXIgLSBldXBob3JpYQ==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

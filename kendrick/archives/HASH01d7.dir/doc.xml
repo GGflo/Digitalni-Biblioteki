@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\kendrick.jpg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">kendrick.jpg</Metadata>
+    <Metadata name="OrigSource">kendrick.jpg</Metadata>
+    <Metadata name="Source">kendrick.jpg</Metadata>
+    <Metadata name="SourceFile">kendrick.jpg</Metadata>
+    <Metadata name="FileFormat">jpeg</Metadata>
+    <Metadata name="FileSize">119658</Metadata>
+    <Metadata name="ImageType">JPEG</Metadata>
+    <Metadata name="ImageWidth">1225</Metadata>
+    <Metadata name="ImageHeight">1500</Metadata>
+    <Metadata name="ImageSize">117KB</Metadata>
+    <Metadata name="srclink_file">kendrick.jpg</Metadata>
+    <Metadata name="srclinkFile">kendrick.jpg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbType">gif</Metadata>
+    <Metadata name="Thumb">kendrick_thumb.gif</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Thumb]&quot; alt=&quot;[Thumb]&quot; width=&quot;[ThumbWidth]&quot; height=&quot;[ThumbHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbWidth">82</Metadata>
+    <Metadata name="ThumbHeight">100</Metadata>
+    <Metadata name="ScreenType">jpeg</Metadata>
+    <Metadata name="Screen">kendrick_screen.jpeg</Metadata>
+    <Metadata name="screenicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Screen]&quot; width=[ScreenWidth] height=[ScreenHeight]&gt;</Metadata>
+    <Metadata name="ScreenWidth">408</Metadata>
+    <Metadata name="ScreenHeight">500</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Creator">Kendrick Lamar</Metadata>
+    <Metadata name="dc.Description">Picture</Metadata>
+    <Metadata name="dc.Title">Kendrick Lamar</Metadata>
+    <Metadata name="Title">kendrick</Metadata>
+    <Metadata name="Identifier">HASH01d7b89a0a26eefec2965c27</Metadata>
+    <Metadata name="lastmodified">1715451363</Metadata>
+    <Metadata name="lastmodifieddate">20240511</Metadata>
+    <Metadata name="oailastmodified">1715452220</Metadata>
+    <Metadata name="oailastmodifieddate">20240511</Metadata>
+    <Metadata name="assocfilepath">HASH01d7.dir</Metadata>
+    <Metadata name="gsdlassocfile">kendrick.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">kendrick_thumb.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">kendrick_screen.jpeg:image/jpeg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

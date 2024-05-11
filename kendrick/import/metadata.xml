@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>Kendrick Lamar - euphoria\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">euphoria</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Kendrick Lamar</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Diss 1</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Kendrick Lamar - Not Like Us\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Not Like Us</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Kendrick Lamar</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Diss 2</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>kendrick-lamar\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Kendrick Lamar</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Kendrick Lamar</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Picture</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>kendrick\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Kendrick Lamar</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Kendrick Lamar</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Picture</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Like That\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Like that</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Kendrick Lamar</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Future</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Diss 0</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

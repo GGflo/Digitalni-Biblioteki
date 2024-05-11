@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\TGlrZSBUaGF0.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">10711386</Metadata>
+    <Metadata name="Source">Like That.mp3</Metadata>
+    <Metadata name="SourceFile">TGlrZSBUaGF0.mp3</Metadata>
+    <Metadata name="mp3">Like That</Metadata>
+    <Metadata name="srcurl">TGlrZSBUaGF0.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">TGlrZSBUaGF0.mp3</Metadata>
+    <Metadata name="srclinkFile">TGlrZSBUaGF0.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Creator">Kendrick Lamar</Metadata>
+    <Metadata name="dc.Creator">Future</Metadata>
+    <Metadata name="dc.Description">Diss 0</Metadata>
+    <Metadata name="dc.Title">Like that</Metadata>
+    <Metadata name="Title">Like That</Metadata>
+    <Metadata name="Identifier">HASH6c6803c0b5e93762fe1224</Metadata>
+    <Metadata name="lastmodified">1715451158</Metadata>
+    <Metadata name="lastmodifieddate">20240511</Metadata>
+    <Metadata name="oailastmodified">1715452217</Metadata>
+    <Metadata name="oailastmodifieddate">20240511</Metadata>
+    <Metadata name="assocfilepath">HASH6c68.dir</Metadata>
+    <Metadata name="gsdlassocfile">TGlrZSBUaGF0.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>
